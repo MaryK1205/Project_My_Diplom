@@ -799,7 +799,7 @@ i {
 
 /*--------------------------------------Медиа запросы------------------------------------------------------*/
 
-@media (min-width: 768px) and (max-width: 1200px) {
+@media (min-width: 641px) and (max-width: 1200px) {
 
     .container_header {
         background-image: url("../images/banner-bg-tablet.jpg");
@@ -946,9 +946,9 @@ i {
 
 }
 
-/*--------------------------------------Медиа запросы (min-width: 360px) and (max-width: 768px)-------------------------*/
+/*--------------------------------------Медиа запросы (min-width: 360px) and (max-width: 640px)-------------------------*/
 
-@media (min-width: 360px) and (max-width: 768px) {
+@media (min-width: 360px) and (max-width: 640px) {
 
     .container_header {
         background-image: url("../images/banner-mobile.jpg");
